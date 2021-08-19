@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Irina Balkarova</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa eos, ex exercitationem nihil odit quidem reprehenderit sunt velit? Ab adipisci aliquam assumenda blanditiis commodi consequatur dignissimos distinctio doloribus eligendi, eos eum excepturi expedita facere, illo in inventore magnam magni minus mollitia nisi non nostrum omnis quam qui quia quibusdam recusandae repellat rerum sed tempora ullam veritatis voluptas voluptatem! Ab autem commodi eligendi fugit, ipsa laboriosam minima quibusdam? Assumenda dolore excepturi facilis in iusto libero quas rem reprehenderit similique voluptate. Ab aliquid aspernatur commodi debitis, deleniti dicta dolor dolore facere iste laudantium officia placeat possimus praesentium, quaerat quos ratione reiciendis unde.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
